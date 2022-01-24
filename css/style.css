@@ -5,3 +5,11 @@
 .our-package-paragraph {
     color: #848199;
 }
+
+.negative-margin {
+    margin-left: -3rem !important;
+}
+
+.negative-margin-top {
+    margin-top: -3rem !important;
+}
